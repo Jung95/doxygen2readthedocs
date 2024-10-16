@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html"><param name="Name" value="Sample"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html#ae4d34239c61c7f1b0a040a1051b2ad90"><param name="Name" value="Sample(const std::string &amp;name)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html"><param name="Name" value="Sample"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html#ae4d34239c61c7f1b0a040a1051b2ad90"><param name="Name" value="Sample(const std::string &amp;name)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html"><param name="Name" value="Sample"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html#a1ab372f38a10f713049972b6636abca1"><param name="Name" value="getName() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html"><param name="Name" value="Sample"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html#addba5d15db8a8b4b7955e60645cbbb8a"><param name="Name" value="setName(const std::string &amp;name)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html#a1ab372f38a10f713049972b6636abca1"><param name="Name" value="getName() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSample.html#addba5d15db8a8b4b7955e60645cbbb8a"><param name="Name" value="setName(const std::string &amp;name)"></OBJECT>
+</UL>
+</BODY>
+</HTML>

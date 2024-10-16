@@ -1,0 +1,81 @@
+\doxysection{Sample Class Reference}
+\hypertarget{classSample}{}\label{classSample}\index{Sample@{Sample}}
+
+
+A class that demonstrates a simple example for Doxygen documentation.  
+
+
+
+
+{\ttfamily \#include $<$sample.\+hpp$>$}
+
+
+
+Collaboration diagram for Sample\+:
+% FIG 0
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classSample_ae4d34239c61c7f1b0a040a1051b2ad90}{Sample}} (const std\+::string \&name)
+\begin{DoxyCompactList}\small\item\em Constructs a new \doxylink{classSample}{Sample} object. \end{DoxyCompactList}\item 
+std\+::string \mbox{\hyperlink{classSample_a1ab372f38a10f713049972b6636abca1}{get\+Name}} () const
+\begin{DoxyCompactList}\small\item\em Gets the name of the \doxylink{classSample}{Sample} object. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classSample_addba5d15db8a8b4b7955e60645cbbb8a}{set\+Name}} (const std\+::string \&name)
+\begin{DoxyCompactList}\small\item\em Sets the name of the \doxylink{classSample}{Sample} object. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+A class that demonstrates a simple example for Doxygen documentation. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{classSample_ae4d34239c61c7f1b0a040a1051b2ad90}\label{classSample_ae4d34239c61c7f1b0a040a1051b2ad90} 
+\index{Sample@{Sample}!Sample@{Sample}}
+\index{Sample@{Sample}!Sample@{Sample}}
+\doxysubsubsection{\texorpdfstring{Sample()}{Sample()}}
+{\footnotesize\ttfamily Sample\+::\+Sample (\begin{DoxyParamCaption}\item[{const std\+::string \&}]{name }\end{DoxyParamCaption})}
+
+
+
+Constructs a new \doxylink{classSample}{Sample} object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The name to assign to the sample object. \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{classSample_a1ab372f38a10f713049972b6636abca1}\label{classSample_a1ab372f38a10f713049972b6636abca1} 
+\index{Sample@{Sample}!getName@{getName}}
+\index{getName@{getName}!Sample@{Sample}}
+\doxysubsubsection{\texorpdfstring{getName()}{getName()}}
+{\footnotesize\ttfamily std\+::string Sample\+::get\+Name (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+
+
+Gets the name of the \doxylink{classSample}{Sample} object. 
+
+\begin{DoxyReturn}{Returns}
+The name as a string. 
+\end{DoxyReturn}
+\Hypertarget{classSample_addba5d15db8a8b4b7955e60645cbbb8a}\label{classSample_addba5d15db8a8b4b7955e60645cbbb8a} 
+\index{Sample@{Sample}!setName@{setName}}
+\index{setName@{setName}!Sample@{Sample}}
+\doxysubsubsection{\texorpdfstring{setName()}{setName()}}
+{\footnotesize\ttfamily void Sample\+::set\+Name (\begin{DoxyParamCaption}\item[{const std\+::string \&}]{name }\end{DoxyParamCaption})}
+
+
+
+Sets the name of the \doxylink{classSample}{Sample} object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The new name to set. \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+sample.\+hpp\end{DoxyCompactItemize}
